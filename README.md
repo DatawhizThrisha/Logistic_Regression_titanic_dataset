@@ -87,16 +87,4 @@ Hi, I'm **Thrisha** 💚
 A passionate and creative AI & Data Science student who loves exploring how models think.  
 This project is part of my learning journey, and I'm proud to share it here!
 
----
 
-## 📸 Screenshot
-
-
-```markdown
-![Model Demo](![Screenshot 2025-07-08 113214](https://github.com/user-attachments/assets/1e0d7c63-e4a3-4f3a-a859-b66df3b5e92d)
-)
-
-
-```
-
----
