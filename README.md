@@ -20,7 +20,7 @@ The notebook walks through everything: data cleaning, feature selection, trainin
 ## 📁 Project Structure
 
 ```
-titanic-logistic-regression/
+Logistic_Regression_titanic_dataset/
 │
 ├── titanic_model.ipynb    👉 Main notebook with full code
 ├── README.md              👉 Project documentation (this file)
