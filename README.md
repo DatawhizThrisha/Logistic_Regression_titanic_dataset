@@ -93,7 +93,8 @@ This project is part of my learning journey, and I'm proud to share it here!
 
 
 ```markdown
-![Model Demo](https://github.com/user-attachments/assets/f863348d-c2f5-4bec-b5c9-60c03e21b3a9/demo-image.png)
+![Model Demo](![Screenshot 2025-07-08 113214](https://github.com/user-attachments/assets/402a7cc6-0571-4f84-8ad9-78fe529f3183)
+)
 
 ```
 
